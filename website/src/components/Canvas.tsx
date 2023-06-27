@@ -5,7 +5,7 @@ import TabItem from '@theme/TabItem';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 import { translate } from '@docusaurus/Translate';
 
-import * as ReactYandexMaps from '@pbe/react-yandex-maps';
+import * as ReactYandexMaps from '@dodge164/react-yandex-maps';
 import { LiveProvider, LivePreview } from 'react-live';
 import prettier from 'prettier/standalone';
 import prettierParserBabel from 'prettier/parser-babel';

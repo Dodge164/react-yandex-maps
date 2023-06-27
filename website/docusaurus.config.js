@@ -46,7 +46,7 @@ const config = {
       metadata: [
         {
           name: 'keywords',
-          content: 'react-yandex-maps, @pbe/react-yandex-maps, yandex-maps',
+          content: 'react-yandex-maps, @dodge164/react-yandex-maps, yandex-maps',
         },
         process.env.YANDEX_VERIFICATION && {
           name: 'yandex-verification',

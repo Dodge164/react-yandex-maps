@@ -1,5 +1,5 @@
 {
-  "name": "@pbe/react-yandex-maps",
+  "name": "@dodge164/react-yandex-maps",
   "version": "1.2.4",
   "description": "Yandex.Maps API bindings for React",
   "typings": "typings/index.d.ts",
